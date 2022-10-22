@@ -1,6 +1,3 @@
-from platform import java_ver
-
-
 d=int(input("Введите первое целое число: "))
 e=int(input("Введите первое целое число: "))
 f=e+d
